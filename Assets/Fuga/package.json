@@ -1,0 +1,12 @@
+{
+    "name": "com.kanais7.fuga",
+    "displayName": "Fuga",
+    "author": { "name": "kanais7", "url": "https://google.com" },
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "fuga",
+    "keywords": [ "fuga" ],
+    "license": "MIT",
+    "category": "fuga",
+    "dependencies": {}
+}
