@@ -1,0 +1,2 @@
+# FooMultiUnityPackages
+sandbox
