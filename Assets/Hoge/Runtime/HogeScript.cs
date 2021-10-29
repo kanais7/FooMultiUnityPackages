@@ -15,4 +15,6 @@ public class HogeScript : MonoBehaviour
     {
         
     }
+
+    public static bool HogeMethod() => true;
 }
